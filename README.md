@@ -15,7 +15,7 @@ Postgres Database
 ```
 
 ## Running the tests
-Run test.sql to confirm your records were successfully inserted into each table.
+Run test.py to confirm your records were successfully inserted into each table.
 
 ## Data model
 Data model is represnted in star schema  which consists of
