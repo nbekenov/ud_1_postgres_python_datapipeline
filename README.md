@@ -1,7 +1,7 @@
 # ud_1_postgres_python_datapipeline
 
 The puprose of the project is to prepare data for analytical team.
-The project consists of the script which create tables in Postgres database and ETL pipeline that loads data from the json files which contains users activity in the app and metadata about the songs into Postgres tables.
+The project consists of the script which creates tables in Postgres database and ETL pipeline that loads data from the json files which contains users activity in the app and metadata about the songs into Postgres tables.
 
 ## Getting Started
 1. execute create_tables.py - this script creates database sparkifydb and all needed tables in it.
